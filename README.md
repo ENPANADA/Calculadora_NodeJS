@@ -1,6 +1,5 @@
 # Calculadora_NodeJS
-## Calculadora basiquisima por medio de un servidor
-
+Calculadora basiquisima por medio de un servidor
 ### Instalacion
 ```
 npm i
