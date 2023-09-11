@@ -1,5 +1,12 @@
 # Calculadora_NodeJS
 ## Calculadora basiquisima por medio de un servidor
+
+### Instalacion
+```
+npm i
+npm run start
+```
+
 ### Mobile Preview
 ![calculadoranodejs](https://github.com/ENPANADA/Calculadora_NodeJS/assets/92269511/cac867fd-056e-48e4-b0db-c23a002890b8)
 
